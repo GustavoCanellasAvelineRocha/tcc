@@ -1,0 +1,26 @@
+===== ABEV3 =====
+
+Série: preco
+  Média:   16.3463
+  Mediana: 16.2700
+  Moda:    19.1000
+  Mínimo:  10.8200
+  Máximo:  24.2700
+
+===== ITUB4 =====
+
+Série: preco
+  Média:   32.4283
+  Mediana: 32.0800
+  Moda:    37.0000
+  Mínimo:  20.5200
+  Máximo:  53.1200
+
+===== VALE3 =====
+
+Série: preco
+  Média:   55.3277
+  Mediana: 54.8600
+  Moda:    17.6500
+  Mínimo:  8.6000
+  Máximo:  118.7200

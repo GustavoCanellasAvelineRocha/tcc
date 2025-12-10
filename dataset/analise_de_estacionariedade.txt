@@ -1,0 +1,21 @@
+Análise
+--- Analisando o VALE3 ---
+--- VALE3, com variável alvo = preco
+Estatística ADF: -1.6888
+p-valor: 0.4369
+Nº lags: 7, Nº observações: 2443
+Decisão: Não estacionária, pois não rejeita H0
+
+--- Analisando o ABEV3 ---
+--- ABEV3, com variável alvo = preco
+Estatística ADF: -2.2566
+p-valor: 0.1863
+Nº lags: 7, Nº observações: 2443
+Decisão: Não estacionária, pois não rejeita H0
+
+--- Analisando o ITUB4 ---
+--- ITUB4, com variável alvo = preco
+Estatística ADF: -2.2980
+p-valor: 0.1726
+Nº lags: 7, Nº observações: 2443
+Decisão: Não estacionária, pois não rejeita H0
