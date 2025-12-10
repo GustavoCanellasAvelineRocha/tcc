@@ -184,10 +184,10 @@ python patchComFundamentalista.py
 ![Resultado LSTM ABEV3](modelos/lstm/resultados/resultado_lstm_abev3.png)
 
 ### ITUB4
-![Resultado LSTM ITUB4](modelos/lstm/resultados/resultado_lstm_itub4.png)
+![Resultado LSTM ITUB4](modelos/lstm/resultados/resultados_lstm_itub4.png)
 
 ### VALE3
-![Resultado LSTM VALE3](modelos/lstm/resultados/resultado_lstm_vale3.png)
+![Resultado LSTM VALE3](modelos/lstm/resultados/resultados_lstm_vale3.png)
 
 ---
 
